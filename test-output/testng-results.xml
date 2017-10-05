@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3992" started-at="2017-10-05T19:22:27Z" finished-at="2017-10-05T19:22:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3992" started-at="2017-10-05T19:22:27Z" finished-at="2017-10-05T19:22:31Z">
+      <class name="com.alg.mvnproject.test1">
+        <test-method status="PASS" signature="testMethod0()[pri:0, instance:com.alg.mvnproject.test1@4d5650ae]" name="testMethod0" duration-ms="3926" started-at="2017-10-05T15:22:27Z" finished-at="2017-10-05T15:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod0 -->
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.alg.mvnproject.test1@4d5650ae]" name="testMethod1" duration-ms="1" started-at="2017-10-05T15:22:30Z" finished-at="2017-10-05T15:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method status="PASS" signature="testMethod2()[pri:0, instance:com.alg.mvnproject.test1@4d5650ae]" name="testMethod2" duration-ms="1" started-at="2017-10-05T15:22:30Z" finished-at="2017-10-05T15:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method status="PASS" signature="testMethod3()[pri:0, instance:com.alg.mvnproject.test1@4d5650ae]" name="testMethod3" duration-ms="1" started-at="2017-10-05T15:22:31Z" finished-at="2017-10-05T15:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method status="PASS" signature="testMethod4()[pri:0, instance:com.alg.mvnproject.test1@4d5650ae]" name="testMethod4" duration-ms="1" started-at="2017-10-05T15:22:31Z" finished-at="2017-10-05T15:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method status="PASS" signature="testMethod5()[pri:0, instance:com.alg.mvnproject.test1@4d5650ae]" name="testMethod5" duration-ms="1" started-at="2017-10-05T15:22:31Z" finished-at="2017-10-05T15:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod5 -->
+      </class> <!-- com.alg.mvnproject.test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
